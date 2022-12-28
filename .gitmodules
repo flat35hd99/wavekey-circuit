@@ -1,0 +1,3 @@
+[submodule "single/kbd"]
+	path = single/kbd
+	url = git@github.com:foostan/kbd.git
