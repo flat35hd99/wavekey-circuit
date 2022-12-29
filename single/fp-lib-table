@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "${brace}KIPRJMOD}{slash}kbd{slash}kicad-footprints{slash}kbd.pretty")(type "KiCad")(uri "kbd")(options "")(descr ""))
+  (lib (name "${brace}brace}KIPRJMOD}{slash}seeed_xiao")(type "KiCad")(uri "seeed_xiao")(options "")(descr "")(disabled))
+)
